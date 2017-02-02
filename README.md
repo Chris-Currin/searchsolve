@@ -2,8 +2,9 @@
 
 
 ## Git
-? git undo stage changes
+Q: git undo stage changes
 
+A: 
 ```bash
 > git reset [filename|folder]
 ```
@@ -14,7 +15,9 @@
 removes from disk too
 
 ## MATLAB
-Set image at A4 page size:
+Q: Set image as A4 page size:
+
+A: 
 ```matlab
 set(fig, 'Units', 'Inches', 'Position', [0,0,8.27,11.69],...
     'PaperUnits', 'Inches', 'PaperSize', [8.27,11.69])
