@@ -29,4 +29,10 @@ scale = [1,0.5]
 ...,'Position',[[0,0],scale.*[8.27,11.69]],...
 ```
 
+Q: Publication quality figures:
+
+A: http://dgleich.github.io/hq-matlab-figs/
+
+alt: http://asa.scitation.org/pb-assets/files/publications/jas/figures.pdf
+
 ## Linux
